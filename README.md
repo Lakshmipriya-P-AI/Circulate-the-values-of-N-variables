@@ -32,6 +32,5 @@ def circulate():
 ## Output:
 ![output](./variable.png)
 
-
 ## Result:
 successfully circulated the values.
