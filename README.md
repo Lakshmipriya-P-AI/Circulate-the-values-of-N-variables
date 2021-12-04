@@ -18,7 +18,7 @@ print the values
 ### Step 6: 
 you get the result
 ## Program:
-'''
+~~~
 #Program to circulate N values.
 #Developed by: lakshmi priya.P
 #RegisterNumber:21001411
@@ -27,7 +27,7 @@ def circulate():
     n=int(input())
     output=l[n:]+l[:n]
     print("After circulating the values are:",output)
-'''
+~~~
 
 ## Output:
 ![output](./variable.png)
