@@ -30,7 +30,7 @@ def circulate():
 ~~~
 
 ## Output:
-![output](./variable.png)
+![output](./variable.PNG)
 
 ## Result:
 successfully circulated the values.
